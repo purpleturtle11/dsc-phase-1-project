@@ -5,10 +5,15 @@
 Below is a list of the contents of this repository.
 
 zippedData: original sources of dataset used
+
 student- Microsoft analysis.ipynb: Jupyter Notebook containing my project
+
 Presentation.pdf.pdf: The non technical presentation
+
 READme Microsoft analysis.md: The README explaining the contents of the repo.
+
 title.basics.csv: First Dataset used
+
 title.ratings.csv: Second Dataset used
 
 
